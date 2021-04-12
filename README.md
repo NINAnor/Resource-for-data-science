@@ -12,8 +12,6 @@ A list of Python books (More general): https://github.com/pamoroso/free-python-b
 
 Data Crayon: https://datacrayon.com/
 
-
-
 ## R
 
 ### Data wrangling
@@ -29,7 +27,9 @@ r-spatial website: https://www.r-spatial.org/
 Data to viz: https://www.data-to-viz.com/poster.html
 
 
+## General data science
 
+Data science box - Complete course by Mine Çetinkaya-Rundel: https://datasciencebox.org/index.html
 
 
 
